@@ -10,7 +10,7 @@ If you believe you have found a security vulnerability in any demo-owned reposit
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them to the Apex Security Response Center (ASRC) at [#).
+Instead, please report them to the Demo Security Response Center (ASRC) at [#).
 
 If you prefer to submit without logging in, send email to [secure@demo.com](mailto:secure@demo.com).  If possible, encrypt your message with our PGP key; please download it from the [Apex Security Response Center PGP Key page](#).
 
